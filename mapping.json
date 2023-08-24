@@ -1,0 +1,5 @@
+{
+    "s3://aws-glue-assets-614129417617-us-east-1": "s3://aws-glue-assets-758373647921-us-east-1",
+    "arn:aws:iam::614129417617:role/AWSGlueStudioRole": "arn:aws:iam::758373647921:role/AWSGlueStudioRole",
+    "s3://tf-djl-dev-glue": "s3://tf-djl-test-glue"
+}
